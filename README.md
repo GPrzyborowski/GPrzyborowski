@@ -35,4 +35,4 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/888c79d2-65eb-474a-8f32-df2483326651" width="400" style="border-radius: 12px;" />
+<img src="https://github.com/user-attachments/assets/888c79d2-65eb-474a-8f32-df2483326651" width="350" style="border-radius: 12px;" />
