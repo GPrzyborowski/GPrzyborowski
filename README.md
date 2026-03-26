@@ -3,6 +3,8 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=GPrzyborowski&style=for-the-badge&color=0e75b6)
+
 ### 🛠️ Tech Stack
 
 **Frontend**  
