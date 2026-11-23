@@ -18,6 +18,8 @@
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4A5568?style=for-the-badge&logo=databricks&logoColor=white)
 
@@ -35,6 +37,14 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge)
+
+---
+
+### 🏆 Hackathons
+
+I regularly take part in hackathons and tech events.
+
+🏅 **Finalist of HackNation 2026**: Poland's largest hackathon organised by public administration, where we built an AI-powered app for processing public information requests for the City of Bydgoszcz.
 
 ---
 
